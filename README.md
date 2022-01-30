@@ -1,5 +1,5 @@
 # Flutter Todo App
-### A flutter todo app using flutter_bloc with features including network status check and localization with the capability to update translations from server.
+ A flutter todo app using flutter_bloc with features including network status check and localization with the capability to update translations from server.
 
 ## How to run the app?
 ### Pre-requisites
