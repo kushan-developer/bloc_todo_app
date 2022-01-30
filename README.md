@@ -3,7 +3,7 @@
 
 ## How to run the app?
 ### Pre-requisites
-- Node.js to run the json server for storing todo list and translations.
+- ```Node.js``` to run the json server for storing todo list and translations.
 
 ### Setup json server
 - Install ```json-server``` from npm.
